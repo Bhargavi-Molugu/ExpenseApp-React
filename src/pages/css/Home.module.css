@@ -1,0 +1,56 @@
+.dashboard-div {
+  /* margin: 1rem; */
+  padding: 1.5rem;
+}
+.dashboard-div h2 {
+  color: black;
+  margin-bottom: 1rem;
+  font-size: 25px;
+  font-weight: bold;
+}
+.dashboard-div ul{
+  min-height: 300px;
+}
+.expense-amount {
+  padding: 1.5rem;
+  background-color: #41224A;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 23px;
+  text-align: center;
+}
+.expenses {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  overflow: hidden;
+   }
+.expenses p {
+  font-size: 20px;
+  font-weight: bold;
+  float: left;
+  margin-bottom: 0rem;
+}
+.expenses a {
+  text-decoration: none;
+  color: #969ea5;
+  font-weight: bold;
+  background-color: #f3f3f3;
+  border-radius: 10px;
+  padding: 0.5rem;
+  font-size: 10px;
+  float: right;
+}
+.expense-add-icon {
+  padding-top: 0.5rem;
+  position: fixed;
+  bottom: 25px;
+  right: 40px;
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  border-radius: 25px;
+  color: white;
+  text-align: center;
+  z-index: 2;
+}

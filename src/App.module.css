@@ -1,0 +1,13 @@
+.icons-div {
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+}
+.icons-div a {
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+.icons-div span {
+  font-size: 35px;
+  color: white;
+}

@@ -1,0 +1,12 @@
+.charts-div{
+    padding: 1.5rem;
+}
+.charts-div p{
+    color: black;
+    margin-bottom: 1rem;
+    font-size: 25px;
+    font-weight: bold;
+}
+.charts-div button{
+    margin-top: 1rem;
+}

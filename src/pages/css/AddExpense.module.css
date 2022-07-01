@@ -1,0 +1,27 @@
+.left-arrow-icon-div a {
+  float: left;
+}
+.left-arrow-icon-div span {
+  font-size: 35px;
+  color: black;
+}
+.left-arrow-icon-div h2 {
+  color: black;
+   font-size: 25px;
+  font-weight: bold;
+  display: flex;
+}
+.add-expense-section {
+  padding: 1rem 1.5rem;
+}
+
+.form label {
+  font-size: 1.05rem;
+  color: black;
+  font-weight: 500;
+}
+.form input,
+.form select {
+  color: #969ea5;
+  font-weight: normal;
+}
